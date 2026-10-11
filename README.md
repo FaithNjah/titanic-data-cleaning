@@ -29,7 +29,7 @@ The project fixes each of these with a reasoned choice instead of a blanket rule
 | Wrong types | Survived and Pclass stored as numbers | Converted to categories (Pclass ordered) |
 | New features | n/a | `Title`, `FamilySize`, `IsAlone`, `HasCabin`, `FareLog` |
 
-It started as a practice lab during my data science bootcamp (2024). I later revisited it, fixed the bugs, answered the open questions, replaced weak cleaning choices with better-reasoned ones and organised it into a reusable project.
+It started as a practice lab during my AI engineering program in 2024. I later revisited it, fixed the bugs, answered the open questions, replaced weak cleaning choices with better-reasoned ones and organised it into a reusable project.
 
 ## Walkthrough
 
@@ -107,5 +107,5 @@ python src/cleaning.py
 
 ## Author
 
-**Faith Njah**: software developer with a background in Medical Physiology.
+**Faith Njah**
 See also: [Medical Students Data Preprocessing](https://github.com/FaithNjah/medical-students-data-preprocessing)
